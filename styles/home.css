@@ -32,6 +32,7 @@
     background-image: url("../assets/log-in.svg");
     width: 20px;
     height: 20px;
+    pointer-events: none;
   }
   
   #page-home main {
